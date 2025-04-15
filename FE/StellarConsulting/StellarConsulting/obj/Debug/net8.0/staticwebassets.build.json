@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hKepiWABMrsonMsc18OFnp6Wv6LWUo1rcV1lI1ZGYO8=",
+  "Hash": "FJqwYBVDnUeLkS/6bPipO0f3JkqtIuacrf5IgU7ERFU=",
   "Source": "StellarConsulting",
   "BasePath": "_content/StellarConsulting",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r4tx28fk2o",
-      "Integrity": "RZzuSTDnrz3JktERu9fatT5RutdAA/jDJtsC0R9huJo=",
+      "Fingerprint": "6dgjfn9fzg",
+      "Integrity": "ZqusOmLDxwCk4KCz8BZn3Yk3lBLlKmrzntMZdUeE/oE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -166,6 +166,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "app.6dgjfn9fzg.css",
+      "AssetFile": "C:\\Users\\Alyss\\OneDrive\\Documents\\GitHub\\StellarConsulting\\FE\\StellarConsulting\\StellarConsulting\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZqusOmLDxwCk4KCz8BZn3Yk3lBLlKmrzntMZdUeE/oE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 20:46:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6dgjfn9fzg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZqusOmLDxwCk4KCz8BZn3Yk3lBLlKmrzntMZdUeE/oE="
+        }
+      ]
+    },
+    {
       "Route": "app.css",
       "AssetFile": "C:\\Users\\Alyss\\OneDrive\\Documents\\GitHub\\StellarConsulting\\FE\\StellarConsulting\\StellarConsulting\\wwwroot\\app.css",
       "Selectors": [],
@@ -176,7 +221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3306"
+          "Value": "3310"
         },
         {
           "Name": "Content-Type",
@@ -184,11 +229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RZzuSTDnrz3JktERu9fatT5RutdAA/jDJtsC0R9huJo=\""
+          "Value": "\"ZqusOmLDxwCk4KCz8BZn3Yk3lBLlKmrzntMZdUeE/oE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 20:08:32 GMT"
+          "Value": "Tue, 15 Apr 2025 20:46:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -198,52 +243,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RZzuSTDnrz3JktERu9fatT5RutdAA/jDJtsC0R9huJo="
-        }
-      ]
-    },
-    {
-      "Route": "app.r4tx28fk2o.css",
-      "AssetFile": "C:\\Users\\Alyss\\OneDrive\\Documents\\GitHub\\StellarConsulting\\FE\\StellarConsulting\\StellarConsulting\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3306"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RZzuSTDnrz3JktERu9fatT5RutdAA/jDJtsC0R9huJo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 20:08:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "r4tx28fk2o"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RZzuSTDnrz3JktERu9fatT5RutdAA/jDJtsC0R9huJo="
+          "Value": "sha256-ZqusOmLDxwCk4KCz8BZn3Yk3lBLlKmrzntMZdUeE/oE="
         }
       ]
     },
