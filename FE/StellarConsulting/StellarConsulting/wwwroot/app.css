@@ -82,3 +82,9 @@ h1:focus {
     border-bottom: 1px solid #eee;
     box-shadow: 0 2px 4px rgba(0,0,0,0.03);
 }
+
+button:hover {
+    background-color: #732181 !important;
+    color: white !important;
+    border-color: #732181 !important;
+}
